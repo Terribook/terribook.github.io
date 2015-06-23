@@ -1,0 +1,38 @@
+body {
+
+	background-color: #54D1D1;
+
+}
+
+a { text-decoration: none;
+	transition: color 1s linear 0s;
+ }
+
+a:hover {
+	color: #aa0000;
+}
+
+a:visited {
+	color: red;
+	text-decoration: underline;
+}
+
+.fancy {
+	width: 60%;
+	background-color: #fefefe;
+	padding: 5px;
+	border-radius: 25px;	
+	font-family: monospace
+}
+
+.info {
+	font-family: arial;
+	font-size: 5;
+	
+}
+
+.teaser {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 250%
+}
